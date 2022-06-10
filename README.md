@@ -13,10 +13,7 @@
 <br>
 
 - All about me is at **[My Website](https://jompy31.github.io/)**
-- 
 
-# React JS Resume Web App Template      
-![ReactJS Resume Website Template](resume-screenshot.jpg?raw=true "ReactJS Resume Website Template")
 
 
 ## Description
