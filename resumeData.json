@@ -1,0 +1,178 @@
+{
+  "main": {
+    "name": "Jean Pierre Barnett",
+    "occupation": "Python Developer",
+    "description": "I am a web development engineer and I use react and vue.js to develop pages. This project is a resume template that can be used as the project home page or resume page",
+    "image": "profilepic.jpg",
+    "bio": "I consider myself passionate about magnetic fields, I am a self taught programmer with experience in python projects due I will make a autonomous vehicle with Artificial inteligenceI to controller all the vehicle and develop the motor with radial and axial technologies. I can resolved differents issues in others code and solved for myself. I can work under pressure and work efficiently individually or with a team. I like to learn about everything around me and I accept all feedback in a good way in order to improve professionally.",
+    "contactmessage": "Here is my personal information if you need contact with me please let me know.",
+    "email": "jpbcserviciotecnico@gmail.com",
+    "phone": "+506 6255 8356 ",
+    "address":{
+      "street":"75 meters south of the San Mateo park",
+      "city":"San Mateo",
+      "state":"Alajuela",
+      "zip": "20401"
+    },
+    "website": "http://www.jompy31.github.io",
+    "resumedownload":"https://jompy31.github.io/",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/profile.php?id=100013504565563/",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"http://twitter.com/jompy31/",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/jean-pierre-barnett-caruzo-452b9a1b1/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/magneticcr/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/jompy31",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "SOFT SKILLS: Communication, Teamwork, Adaptability.",
+    "education": [
+      {
+        "school":"National Technical University - Hispanoamerica University",
+        "degree":"Bachelor of Electronic Engineering",
+        "graduated": "",
+        "description": "It covers fields such as: analog electronics, digital electronics, consumer electronics, embedded systems and power electronics. It is also involved in many related fields, for example solid-state physics, radio engineering, telecommunications, control systems, signal processing, systems engineering, computer engineering, instrumentation engineering, electric power control, robotics. - Advanced courses in accounting, economics, finance, management, marketing, strategic management, supply chain management."
+      },
+      {
+        "school": "Massachusetts Institute of Technology - HarvardX - Stanford University",
+        "degree": "Python Developer",
+        "graduated": "",
+        "description": "- Computer Science and Programming Using Python - Python for Research - Artificial Intelligence with Python - Web Programming with Python and JavaScript - Python for Research - Mobile app Development by React Native- Machine Learning "
+      }
+    ],
+    "work": [
+      {
+        "company": "Intel Corporation",
+        "title": "Electronics Yield Engineer",
+        "years": "",
+        "description": "- Designing interactive yield dashboards with python (tkinter, maptlab, pandas) interface and SQL. Developed image classifier from server with python (opencv, tensorflow, keras, socket, base64, scikit-learn) - Manager tasks"
+      },
+      {
+        "company": "UST Global ( INTEL)",
+        "title": "Team leader Backup",
+        "years": "",
+        "description": "Debugging with python. Made tests on microprocessors and verified all pheripherials items in the main board to guarantee the correct conexion. We modified bios and made overclocking and benchmark tests - Manager tasks"
+      }
+    ],
+    "skills": [
+      {
+        "name":"Python",
+        "level":"80%"
+      },
+      {
+        "name":"HTML",
+        "level":"70%"
+      },
+      {
+        "name":"CSS",
+        "level":"80%"
+      },
+      {
+        "name":"Javascript",
+        "level":"80%"
+      },
+      {
+        "name":"ASP.NET",
+        "level":"80%"
+      },
+      {
+        "name":"PHP",
+        "level":"80%"
+      },
+      {
+        "name":"Node.js",
+        "level":"80%"
+      },
+      {
+        "name":"Java",
+        "level":"70%"
+      },
+      {
+        "name":"Spring boot",
+        "level":"80%"
+      },
+      {
+        "name":"kotlin",
+        "level":"80%"
+      },
+      {
+        "name":"Django",
+        "level":"80%"
+      },
+      {
+        "name":"Machine Learning",
+        "level":"70%"
+      },
+      {
+        "name":"GIT, GITHUB",
+        "level":"90%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Resume Website",
+        "category": "A React based resume website template",
+        "image": "resume-website.jpg",
+        "url": "https://jompy31.github.io/"
+      },
+      {
+        "title": "",
+        "category": "",
+        "image": "",
+        "url": ""
+      },
+      {
+        "title": "",
+        "category": "",
+        "image": "",
+        "url": ""
+      },
+      {
+        "title": "",
+        "category": "",
+        "image": "",
+        "url": ""
+      },
+      {
+        "title": "",
+        "category": "",
+        "image": "",
+        "url": ""
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Jean is a bright and personable individual always searching for areas to improve.",
+        "user": "Johnny Castro."
+      },
+      {
+        "text": "",
+        "user": ""
+      }
+    ]
+  }
+}
