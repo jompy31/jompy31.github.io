@@ -1,5 +1,5 @@
 {
-  "homepage": "https://jompy31.github.io",
+  "homepage": "https://jompy31.github.io.git",
   "name": "personalresume",
   "version": "0.1.0",
   "private": true,
@@ -16,7 +16,7 @@
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -b master -d build"
+    "deploy": "gh-pages -d build"
   },
   "devDependencies": {
     "gh-pages": "^4.0.0"
