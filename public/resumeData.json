@@ -1,0 +1,150 @@
+{
+  "main":{
+  "name": "Jean Pierre Barnett",
+  "occupation": "Software Developer | Electronics Yield Engineer",
+  "description": "Experienced Python programmer with more than 6 years of experience in electronic technology, specializing in testing microprocessors, electronic board repair, bios and firmware development. Proficient in Python, C++, Visual Studios, R, and skilled in various technologies such as heat press repair, network connection, Windows and Linux operating systems, printers, motors, all based on a process risk management framework. Excels in preventive and corrective maintenance, project supervision, and more. Thrives on new challenges and acquiring new knowledge.",
+  "image": "profilepic.jpg",
+  "bio": "Proven and experienced professional in both technical and managerial roles. Enjoys forming, developing, and guiding multicultural teams to achieve operational excellence. Enjoys being a change agent by implementing clear processes, planning, communication, innovation, and leadership.",
+  "contactmessage": "Here is my personal information if you need to contact me, please let me know.",
+  "email": "jpbcserviciotecnico@gmail.com",
+  "phone": "+506 6255 8356",
+  "address": {
+    "city": "Alajuela",
+    "state": "Alajuela",
+    "zip": "20101"
+  },
+  "website": "https://jompy31.github.io/",
+  "resumedownload": "https://www.linkedin.com/in/jean-pierre-barnett-caruzo-452b9a1b1/",
+  "social": [
+    {
+      "name": "linkedin",
+      "url": "https://www.linkedin.com/in/jean-pierre-barnett-caruzo-452b9a1b1/",
+      "className": "fa fa-linkedin"
+    },
+    {
+      "name": "github",
+      "url": "https://github.com/jompy31",
+      "className": "fa fa-github"
+    }
+  ]
+}
+,
+  "resume": {
+    "skillmessage": "SOFT SKILLS: Communication, Teamwork, Adaptability.",
+    "education": [
+      {
+        "school": "National Technical University",
+        "degree": "Diploma in Electronic Engineering",
+        "graduated": "2012-2014"
+      },
+      {
+        "school": "National Technical University",
+        "degree": "Bachelor of Electronic Engineering",
+        "graduated": "Course enrolled 2021"
+      },
+      {
+        "school": "Hispanoamerica University",
+        "degree": "Bachelor in Administration",
+        "graduated": "Course enrolled 2021"
+      },
+      {
+        "school": "Massachusetts Institute of Technology",
+        "degree": "Computer Science and Programming Using Python",
+        "graduated": "Finished with no Certification 2021"
+      },
+      {
+        "school": "Harvard",
+        "degree": "Using Python for Research",
+        "graduated": "Finished with no Certification 2021"
+      },
+      {
+        "school": "Harvard",
+        "degree": "Artificial Intelligence with Python",
+        "graduated": "Finished with no Certification 2021"
+      },
+      {
+        "school": "Harvard",
+        "degree": "Web Programming with Python and JavaScript",
+        "graduated": "Finished with no Certification 2022"
+      },
+      {
+        "school": "Stanford University",
+        "degree": "Machine Learning",
+        "graduated": "Cursing 6/18 months 2022"
+      },
+      {
+        "school": "National Autonomous University of Mexico",
+        "degree": "Object-oriented programming in Java",
+        "graduated": "Cursing 6/18 months 2022"
+      }
+    ],
+    "work": [
+      {
+        "company": "Web Developer Freelancer",
+        "title": "Web Developer",
+        "years": "January 2023 - Present",
+        "description": "Developing web applications using Python, Django, and React.js. Designing interactive yield dashboards using SQL and MongoDB databases. Performing data analysis using Python for data analysis, Power BI, and SharePoint. Managing tasks and projects using SCRUM methodology. Developing software to optimize tasks with Python programs with artificial intelligence and computer vision."
+      },
+      {
+        "company": "Intel Corporation",
+        "title": "Electronics Yield Engineer",
+        "years": "January 2022 - January 2023",
+        "description": "Analyzed the percentage of factory losses and conducted investigations to discover the causes of failures. Led a team of 62 people, including 52 operations engineers and operators. Developed machine learning algorithms for alarm analysis and image analysis using Python, Keras, TensorFlow, and scikit-learn. Created a dashboard with Power BI for data visualization and utilized SQL for data extraction. Automated human operations using Python, Selenium, and Kubernetes. Conducted hardware and software testing, including the creation of test cases and test plans."
+      },
+      {
+        "company": "UST Global (Intel)",
+        "title": "Electronics Technician",
+        "years": "August 2020 - December 2021",
+        "description": "Migrated 400+ test cases to HSD-ES, improving testing efficiency. Collaborated with teams to triage and root cause issues and bugs. Prepared systems by assembling hardware, flashing firmware, installing OS, and connecting debuggers. Worked closely with customers to achieve deliverables. Published daily and weekly status reports. Wrote defect reports for detected issues. Utilized debug tools like WinDbg for troubleshooting."
+      }
+    ],
+    "skills": [
+      {
+        "name":"Python",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Directorio de Cooperativas",
+        "url": "https://www.directoriodecooperativas.com/",
+        "category": "Working for ABcupon, we collaborate closely with Infocoop to provide a unique platform that facilitates centralized search and access to information on Latin American cooperatives.",
+        "image": "1.jpeg"
+      },
+      {
+        "title": "ABCupon",
+        "url": "https://abcupon.com/",
+        "category": "Create a virtual platform that brings together numerous carefully selected suppliers, who offer their services with high standards of excellence. In a General Directory and as a virtual store of all suppliers",
+        "image": "2.jpeg"
+
+      },
+      {
+        "title": "Coopered",
+        "url": "https://coopered.netlify.app/",
+        "category": "Static page with redirection to WhatsApp",
+        "image": "3.jpeg"
+      }, 
+      {
+        "title": "Trabajo Ideal",
+        "url": "https://trabajo-ideal.netlify.app/",
+        "category": "An exact copy of Linkedin for connection to a SQL database",
+        "image": "4.jpeg"
+      }
+ 
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Jean is a bright and personable individual always searching for areas to improve.",
+        "user": "Johnny Castro (UST GLobal)."
+      },
+      {
+        "text": "Thank you very much for the leadership, commitment, professionalism and for the legacy you leave us. Your footprint will continue to be part of our history.",
+        "user": "Ileana Rojas (Intel)."
+      }
+    ]
+  }
+}
