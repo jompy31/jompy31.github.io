@@ -1,0 +1,407 @@
+{
+    "locales": {
+        "en": {
+            "title": "Welcome!",
+            "title_menu": "About me",
+            "title_long_prefix": "Hello...",
+            "title_long": "I'm **Jean Pierre!**"
+        },
+
+        "es": {
+            "title": "¡Saludos!",
+            "title_menu": "Sobre mí",
+            "title_long_prefix": "Hola...",
+            "title_long": "Soy **Jean Pierre!**"
+        },
+
+        "fr": {
+            "title": "Salut !",
+            "title_menu": "À propos",
+            "title_long_prefix": "Salut...",
+            "title_long": "Je suis **Jean Pierre!**"
+        },
+
+        "ko": {
+            "title": "환영합니다!",
+            "title_menu": "소개",
+            "title_long_prefix": "안녕하세요...",
+            "title_long": "저는 **Jean Pierre** 입니다!"
+        }
+    },
+
+    "articles": [
+        {
+            "id": "contact_list",
+            "component": "ArticleGrid",
+            "config": {
+                "ignorePaddingTop": true,
+                "format": "inline"
+            },
+            "locales": {
+                "en": {},
+                "es": {},
+                "fr": {},
+                "ko": {}
+            },
+
+            "items": [
+                {
+                    "value": "Costa Rica – CA",
+                    "links": [
+                        {"href": null}
+                    ],
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-city",
+                        "faColors": {"bg": null, "fill": null}
+                    }
+                },
+                {
+                    "value": "jpbcserviciotecnico@gmail.com",
+                    "links": [
+                        {"href": "mailto:jpbcserviciotecnico@gmail.com"}
+                    ],
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-envelope",
+                        "faColors": {"bg": null, "fill": null}
+                    }
+                },
+                {
+                    "value": "@jompy31",
+                    "links": [
+                        {"href": "https://github.com/jompy31"}
+                    ],
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-brands fa-github",
+                        "faColors": {"bg": null, "fill": null}
+                    }
+                }
+            ]
+        },
+
+        {
+            "id": "short_description",
+            "component": "ArticleInfoBlock",
+            "config": {},
+            "locales": {
+                "en": {"title": "**A little bit** about me..."},
+                "es": {"title": "**Un poco** sobre mí..."},
+                "fr": {"title": "**Un peu** à propos de moi..."},
+                "ko": {"title": "저에 **대해 조금**..."}
+            },
+
+            "items": [
+                {
+                    "icon": {
+                        "img": "images/svg/logo.svg",
+                        "fa": null,
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "locales": {
+                        "en": {
+                            "text": "<p>I’m a <b>Full Stack Developer</b> with <b>over five years</b> of experience, specializing in <b>Python, React.js, and JavaScript</b>. My expertise extends to backend technologies like <b>Node.js, Django, and Flask</b>, as well as frontend frameworks such as <b>Next.js, React.js and Vue.js</b>.</p><p>I have a strong background in cloud environments, particularly <b>AWS</b> (Lambda, S3, EC2) and <b>Google Cloud</b>, and I’m proficient in <b>Terraform</b> for infrastructure automation. I also have hands-on experience with databases like <b>PostgreSQL, MySQL, and MongoDB</b>, ensuring scalable and optimized solutions.</p><p>With deep knowledge of agile development, CI/CD pipelines, and system integrations, I build efficient, secure, and high-performance applications.</p><p>Let’s create something <b>amazing together!</b></p>"
+                        },
+                        "es": {
+                            "text": "<p>Soy un <b>Desarrollador Full Stack</b> con <b>más de cinco años</b> de experiencia, especializado en <b>Python, React.js y JavaScript</b>. Mi experiencia abarca tecnologías backend como <b>Node.js, Django y Flask</b>, así como frameworks frontend como <b>Next.js, React.js y Vue.js</b>.</p><p>Tengo un sólido conocimiento en entornos en la nube, especialmente en <b>AWS</b> (Lambda, S3, EC2) y <b>Google Cloud</b>, y manejo <b>Terraform</b> para la automatización de infraestructura. También tengo experiencia práctica con bases de datos como <b>PostgreSQL, MySQL y MongoDB</b>, asegurando soluciones escalables y optimizadas.</p><p>Con un profundo conocimiento en desarrollo ágil, pipelines CI/CD e integración de sistemas, desarrollo aplicaciones eficientes, seguras y de alto rendimiento.</p><p>¡Creemos algo <b>increíble juntos!</b></p>"
+                        },
+                        "fr": {
+                            "text": "<p>Je suis un <b>Développeur Full Stack</b> avec <b>plus de cinq ans</b> d'expérience, spécialisé en <b>Python, React.js et JavaScript</b>. Mon expertise couvre les technologies backend comme <b>Node.js, Django et Flask</b>, ainsi que les frameworks frontend tels que <b>Next.js, React.js et Vue.js</b>.</p><p>J'ai une solide maîtrise des environnements cloud, notamment <b>AWS</b> (Lambda, S3, EC2) et <b>Google Cloud</b>, ainsi que de <b>Terraform</b> pour l'automatisation de l'infrastructure. J’ai également une expérience pratique avec les bases de données comme <b>PostgreSQL, MySQL et MongoDB</b>, garantissant des solutions évolutives et performantes.</p><p>Grâce à ma connaissance approfondie du développement agile, des pipelines CI/CD et de l'intégration des systèmes, je conçois des applications efficaces, sécurisées et performantes.</p><p>Construisons quelque chose de <b>grand ensemble !</b></p>"
+                        },
+                        "ko": {
+                            "text": "<p>저는 <b>Python, React.js, JavaScript</b>를 전문으로 하는 <b>5년 이상의</b> 경력을 가진 <b>풀스택 개발자</b>입니다. 백엔드 기술로는 <b>Node.js, Django, Flask</b>를, 프론트엔드 프레임워크로는 <b>Next.js, Vue.js</b>를 사용하여 다양한 프로젝트를 수행해 왔습니다.</p><p>특히 <b>AWS</b> (Lambda, S3, EC2) 및 <b>Google Cloud</b> 환경에 대한 강한 이해도를 가지고 있으며, <b>Terraform</b>을 활용한 인프라 자동화에도 능숙합니다. 또한 <b>PostgreSQL, MySQL, MongoDB</b>와 같은 데이터베이스를 다루며 확장 가능하고 최적화된 솔루션을 제공합니다.</p><p>애자일 개발, CI/CD 파이프라인, 시스템 통합에 대한 깊은 이해를 바탕으로 효율적이고 보안성이 뛰어나며 고성능의 애플리케이션을 구축합니다.</p><p><b>함께 놀라운 것을 만들어 봅시다!</b></p>"
+                        }
+                    }
+
+                }
+            ]
+        },
+
+        {
+            "id": "testimonials",
+            "component": "ArticleTestimonials",
+            "config": {},
+            "locales": {
+                "en": {"title": "Client **testimonials**"},
+                "es": {"title": "Testimonios de **clientes**"},
+                "fr": {"title": "Témoignages de **clients**"},
+                "ko": {"title": "**고객** 추천사"}
+            },
+
+            "items": [
+    {
+      "value": "Felipe Palacios",
+      "links": [
+        {
+          "href": "https://linkedin.com"
+        }
+      ],
+      "icon": {
+        "img": "images/pictures/person-4.png",
+        "fa": "fa-solid fa-user",
+        "faColors": null
+      },
+      "locales": {
+        "en": {
+          "info": "Restaurant Owner at <b>Donde Felipe</b>",
+          "text": "Working with Jean Pierre Barnett was transformative for my restaurant business. He developed a comprehensive web application using React.js and Node.js to manage orders, billing, and overall operations seamlessly. This platform has streamlined our processes and greatly improved customer satisfaction."
+        },
+        "es": {
+          "info": "Propietario de Restaurante en <b>Donde Felipe</b>",
+          "text": "Trabajar con Jean Pierre Barnett fue transformador para mi negocio de restaurante. Desarrolló una aplicación web integral con React.js y Node.js para gestionar pedidos, facturación y operaciones de forma fluida. Esta solución ha optimizado nuestros procesos y mejorado notablemente la satisfacción de los clientes."
+        },
+        "fr": {
+          "info": "Propriétaire de Restaurant chez <b>Palacios Gourmet</b>",
+          "text": "Collaborer avec Jean Pierre Barnett a été une expérience transformatrice pour mon entreprise de restauration. Il a développé une application web complète en utilisant React.js et Node.js pour gérer les commandes, la facturation et l'ensemble des opérations de manière fluide. Cette solution a considérablement amélioré nos processus et la satisfaction client."
+        },
+        "ko": {
+          "info": "<b>Donde Felipe</b>의 레스토랑 오너",
+          "text": "Jean Pierre Barnett와의 협업은 제 레스토랑 사업에 큰 변화를 가져왔습니다. 그는 React.js와 Node.js를 사용하여 주문, 청구 및 전체 운영을 원활하게 관리할 수 있는 종합 웹 애플리케이션을 개발했습니다. 이 솔루션은 우리의 프로세스를 크게 최적화하고 고객 만족도를 향상시켰습니다."
+        }
+      }
+    },
+    {
+      "value": "Felix Cascante",
+      "links": [
+        {
+          "href": "https://linkedin.com"
+        }
+      ],
+      "icon": {
+        "img": "images/pictures/person-2.png",
+        "fa": "fa-solid fa-user",
+        "faColors": null
+      },
+      "locales": {
+        "en": {
+          "info": "CEO at <b>Huetar Fresh</b>",
+          "text": "I entrusted Jean Pierre Barnett with creating three dynamic websites to showcase our import and export products of tubers. His technical expertise and creative design ensured that each site was visually captivating, fast, and robust, helping us expand our reach to international markets."
+        },
+        "es": {
+          "info": "CEO en <b>Huetar Fresh</b>",
+          "text": "Confié en Jean Pierre Barnett la creación de tres sitios web dinámicos para exhibir nuestros productos de importación y exportación de tubérculos. Su experiencia técnica y diseño creativo aseguraron que cada sitio fuera visualmente atractivo, rápido y funcional, ayudándonos a ampliar nuestro alcance en mercados internacionales."
+        },
+        "fr": {
+          "info": "PDG chez <b>Huetar Fresh</b>",
+          "text": "J'ai confié à Jean Pierre Barnett la création de trois sites web dynamiques pour présenter nos produits d'importation et d'exportation de tubercules. Son expertise technique et son sens créatif ont permis à chaque site d'être visuellement attrayant, rapide et robuste, nous aidant à étendre notre portée sur les marchés internationaux."
+        },
+        "ko": {
+          "info": "<b>Huetar Fresh</b>의 CEO",
+          "text": "저는 Jean Pierre Barnett에게 tuber 수입 및 수출 제품을 선보일 3개의 동적인 웹사이트 제작을 맡겼습니다. 그의 기술 전문성과 창의적인 디자인 덕분에 각 사이트는 시각적으로 매력적이고 빠르며 견고하여, 국제 시장으로의 진출에 큰 도움이 되었습니다."
+        }
+      }
+    },
+    {
+      "value": "Donal Orias",
+      "links": [
+        {
+          "href": "https://linkedin.com"
+        }
+      ],
+      "icon": {
+        "img": "images/pictures/person-3.png",
+        "fa": "fa-solid fa-user",
+        "faColors": null
+      },
+      "locales": {
+        "en": {
+          "info": "Entrepreneur at <b>Orias Solutions</b>",
+          "text": "Jean Pierre Barnett developed a custom WhatsApp CRM for my business, allowing efficient management of clients, categorization, and controlled access for team members. The intuitive dashboard offers a clear overview of client interactions, significantly enhancing our operational efficiency."
+        },
+        "es": {
+          "info": "Emprendedor en <b>Orias Solutions</b>",
+          "text": "Jean Pierre Barnett desarrolló un CRM personalizado de WhatsApp para mi negocio, permitiéndome gestionar clientes, categorizarlos y controlar los accesos del equipo de manera eficiente. El dashboard intuitivo ofrece una visión clara de las interacciones con los clientes, mejorando significativamente nuestra eficiencia operativa."
+        },
+        "fr": {
+          "info": "Entrepreneur chez <b>Orias Solutions</b>",
+          "text": "Jean Pierre Barnett a développé un CRM WhatsApp sur mesure pour mon entreprise, permettant une gestion efficace des clients, leur catégorisation et un accès contrôlé pour les membres de l'équipe. Le tableau de bord intuitif offre une vue d'ensemble claire des interactions clients, améliorant considérablement notre efficacité opérationnelle."
+        },
+        "ko": {
+          "info": "<b>Orias Solutions</b>의 기업가",
+          "text": "Jean Pierre Barnett는 제 사업을 위해 맞춤형 WhatsApp CRM을 개발했습니다. 이를 통해 고객 관리, 분류 및 팀원에 대한 통제된 접근이 가능해졌으며, 직관적인 대시보드를 통해 고객 상호작용을 한눈에 파악할 수 있어 운영 효율성이 크게 향상되었습니다."
+        }
+      }
+    }
+  ]
+        },
+
+        {
+            "id": "interests",
+            "component": "ArticleGrid",
+            "config": {
+                "format": "grid"
+            },
+            "locales": {
+                "en": {"title": "Personal **interests**"},
+                "es": { "title": "Intereses **personales**" },
+                "fr": { "title": "Intérêts **personnels** " },
+                "ko": { "title": "개인 **관심사**" }
+            },
+
+            "items": [
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-guitar",
+                        "faColors": null
+                    },
+                    "value": null,
+                    "locales": {
+                        "en": {
+                            "title": "Playing guitar",
+                            "info": "Exploring different genres and improving my skills."
+                        },
+                        "es": {
+                            "title": "Tocar la guitarra",
+                            "info": "Explorando diferentes géneros y mejorando mis habilidades."
+                        },
+                        "fr": {
+                            "title": "Jouer de la guitare",
+                            "info": "Explorer différents genres et améliorer mes compétences."
+                        },
+                        "ko": {
+                            "title": "기타 연주",
+                            "info": "다양한 장르를 탐험하고 기술을 향상시키기."
+                        }
+                    }
+                },
+
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-video",
+                        "faColors": null
+                    },
+                    "value": null,
+                    "locales": {
+                        "en": {
+                            "title": "AI video editing",
+                            "info": "Learning to use AI tools to enhance my videos."
+                        },
+                        "es": {
+                            "title": "Edición de video con IA",
+                            "info": "Aprendiendo a usar herramientas de IA para mejorar mis videos."
+                        },
+                        "fr": {
+                            "title": "Montage vidéo avec IA",
+                            "info": "Apprendre à utiliser des outils d'IA pour améliorer mes vidéos."
+                        },
+                        "ko": {
+                            "title": "AI 영상 편집",
+                            "info": "AI 도구를 사용하여 내 영상을 향상시키는 방법 배우기."
+                        }
+                    }
+                },
+
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-paint-brush",
+                        "faColors": null
+                    },
+                    "value": null,
+                    "locales": {
+                        "en": {
+                            "title": "Illustration",
+                            "info": "Practicing digital art and exploring new styles."
+                        },
+                        "es": {
+                            "title": "Ilustración",
+                            "info": "Practicando arte digital y explorando nuevos estilos."
+                        },
+                        "fr": {
+                            "title": "Illustration",
+                            "info": "Pratiquer l'art numérique et explorer de nouveaux styles."
+                        },
+                        "ko": {
+                            "title": "일러스트레이션",
+                            "info": "디지털 아트를 연습하고 새로운 스타일을 탐험하기."
+                        }
+                    }
+                },
+
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-chart-line",
+                        "faColors": null
+                    },
+                    "value": null,
+                    "locales": {
+                        "en": {
+                            "title": "Investing",
+                            "info": "Learning the basics of stocks and personal finance."
+                        },
+                        "es": {
+                            "title": "Invertir",
+                            "info": "Aprendiendo los conceptos básicos de acciones y finanzas personales."
+                        },
+                        "fr": {
+                            "title": "Investir",
+                            "info": "Apprendre les bases des actions et des finances personnelles."
+                        },
+                        "ko": {
+                            "title": "투자",
+                            "info": "주식과 개인 재정의 기초 배우기."
+                        }
+                    }
+                },
+
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-pencil-alt",
+                        "faColors": null
+                    },
+                    "value": null,
+                    "locales": {
+                        "en": {
+                            "title": "UX design",
+                            "info": "Studying user experience principles."
+                        },
+                        "es": {
+                            "title": "Diseño UX",
+                            "info": "Estudiando los principios de la experiencia del usuario."
+                        },
+                        "fr": {
+                            "title": "Conception UX",
+                            "info": "Étudier les principes de l'expérience utilisateur."
+                        },
+                        "ko": {
+                            "title": "UX 디자인",
+                            "info": "사용자 경험 원칙을 공부하기."
+                        }
+                    }
+                },
+
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-camera-retro",
+                        "faColors": null
+                    },
+                    "value": null,
+                    "locales": {
+                        "en": {
+                            "title": "Photo editing",
+                            "info": "Enhancing photos through creative editing techniques."
+                        },
+                        "es": {
+                            "title": "Edición de fotos",
+                            "info": "Mejorando fotos a través de técnicas creativas de edición."
+                        },
+                        "fr": {
+                            "title": "Retouche photo",
+                            "info": "Améliorer des photos avec des techniques de montage créatives."
+                        },
+                        "ko": {
+                            "title": "사진 편집",
+                            "info": "창의적인 편집 기술을 통해 사진을 향상시키기."
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}

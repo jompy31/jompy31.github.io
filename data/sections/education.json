@@ -1,0 +1,354 @@
+{
+  "locales": {
+    "en": {
+      "title": "Education",
+      "title_long_prefix": "This is my",
+      "title_long": "**Educational** Background"
+    },
+    "es": {
+      "title": "Educación",
+      "title_long_prefix": "Esta es mi",
+      "title_long": "**Formación** Educativa"
+    },
+    "fr": {
+      "title": "Éducation",
+      "title_long_prefix": "C'est mon",
+      "title_long": "**Contexte** Éducatif"
+    },
+    "ko": {
+      "title": "교육",
+      "title_long_prefix": "이것은 내",
+      "title_long": "**교육적** 배경"
+    }
+  },
+  "articles": [
+    {
+      "id": "academic",
+      "component": "ArticleTimeline",
+      "config": {},
+      "locales": {},
+      "items": [
+        {
+          "icon": {
+            "img": "images/pictures/UTN.jpg",
+            "fa": "",
+            "faColors": {
+              "bg": null,
+              "fill": null
+            }
+          },
+          "dates": {
+            "start": "01/01/2012",
+            "end": "12/31/2014"
+          },
+          "locales": {
+            "en": {
+              "title": "Diploma in **Electronic Engineering**",
+              "info": "Universidad Técnica Nacional",
+              "text": "Completed a diploma in Electronic Engineering. Gained foundational knowledge in electronics and related fields.",
+              "tags": []
+            },
+            "es": {
+              "title": "Diploma en **Ingeniería Electrónica**",
+              "info": "Universidad Técnica Nacional",
+              "text": "Completé un diploma en Ingeniería Electrónica. Adquirí conocimientos fundamentales en electrónica y campos relacionados.",
+              "tags": null
+            },
+            "fr": {
+              "title": "Diplôme en **Ingénierie Électronique**",
+              "info": "Université Technique Nationale",
+              "text": "J'ai complété un diplôme en Ingénierie Électronique. Acquis des connaissances de base en électronique et dans des domaines connexes.",
+              "tags": null
+            },
+            "ko": {
+              "title": "**전자 공학** 졸업장",
+              "info": "국립 기술 대학교",
+              "text": "전자 공학 졸업장을 완료했습니다. 전자 공학 및 관련 분야에 대한 기초 지식을 습득했습니다.",
+              "tags": null
+            }
+          }
+        },
+        {
+          "icon": {
+            "img": "images/pictures/UTN.jpg",
+            "fa": "",
+            "faColors": {
+              "bg": null,
+              "fill": null
+            }
+          },
+          "dates": {
+            "start": "01/01/2021",
+            "end": "12/31/2021"
+          },
+          "locales": {
+            "en": {
+              "title": "Bachelor's Degree in **Electronic Engineering** (In Progress)",
+              "info": "Universidad Técnica Nacional",
+              "text": "Currently pursuing a Bachelor's Degree in Electronic Engineering, with 34 out of 62 credits completed.",
+              "tags": []
+            },
+            "es": {
+              "title": "Cursando **Bachillerato en Ingeniería Electrónica**",
+              "info": "Universidad Técnica Nacional",
+              "text": "Actualmente cursando el Bachillerato en Ingeniería Electrónica, con 34 de 62 créditos completados.",
+              "tags": null
+            },
+            "fr": {
+              "title": "**Baccalauréat en Ingénierie Électronique** (En cours)",
+              "info": "Université Technique Nationale",
+              "text": "Actuellement en cours d'obtention d'un Baccalauréat en Ingénierie Électronique, avec 34 crédits sur 62 complétés.",
+              "tags": null
+            },
+            "ko": {
+              "title": "**전자 공학 학사** (진행 중)",
+              "info": "국립 기술 대학교",
+              "text": "현재 전자 공학 학사를 취득 중이며, 62학점 중 34학점을 완료했습니다.",
+              "tags": null
+            }
+          }
+        },
+        {
+          "icon": {
+            "img": "images/pictures/UH.jpg",
+            "fa": "",
+            "faColors": {
+              "bg": null,
+              "fill": null
+            }
+          },
+          "dates": {
+            "start": "01/01/2021",
+            "end": "12/31/2021"
+          },
+          "locales": {
+            "en": {
+              "title": "Bachelor's Degree in **Business Administration** (In Progress)",
+              "info": "Universidad Hispanoamericana",
+              "text": "Currently pursuing a Bachelor's Degree in Business Administration, with 18 out of 60 credits completed.",
+              "tags": []
+            },
+            "es": {
+              "title": "Cursando **Licenciatura en Administración**",
+              "info": "Universidad Hispanoamericana",
+              "text": "Actualmente cursando la Licenciatura en Administración, con 18 de 60 créditos completados.",
+              "tags": null
+            },
+            "fr": {
+              "title": "**Licence en Administration des Affaires** (En cours)",
+              "info": "Université Hispanoaméricaine",
+              "text": "Actuellement en cours d'obtention d'une Licence en Administration des Affaires, avec 18 crédits sur 60 complétés.",
+              "tags": null
+            },
+            "ko": {
+              "title": "**경영학 학사** (진행 중)",
+              "info": "히스파노아메리카 대학교",
+              "text": "현재 경영학 학사를 취득 중이며, 60학점 중 18학점을 완료했습니다.",
+              "tags": null
+            }
+          }
+        },
+        {
+          "icon": {
+            "img": "images/pictures/miit.jpg",
+            "fa": "",
+            "faColors": {
+              "bg": null,
+              "fill": null
+            }
+          },
+          "dates": {
+            "start": "01/01/2021",
+            "end": "12/31/2021"
+          },
+          "locales": {
+            "en": {
+              "title": "Course in **Computer Science and Programming with Python**",
+              "info": "Massachusetts Institute of Technology (MIT)",
+              "text": "Completed a course in Computer Science and Programming using Python. Covered the basics of Python programming and its applications.",
+              "tags": []
+            },
+            "es": {
+              "title": "Curso de **Ciencia de la Computación y Programación con Python**",
+              "info": "Instituto Tecnológico de Massachusetts (MIT)",
+              "text": "Completé un curso de Ciencia de la Computación y Programación usando Python. Cubrió los fundamentos de la programación en Python y sus aplicaciones.",
+              "tags": null
+            },
+            "fr": {
+              "title": "Cours de **Science Informatique et Programmation avec Python**",
+              "info": "Institut Technologique du Massachusetts (MIT)",
+              "text": "J'ai complété un cours de Science Informatique et Programmation avec Python. Couvrant les bases de la programmation en Python et ses applications.",
+              "tags": null
+            },
+            "ko": {
+              "title": "**파이썬을 활용한 컴퓨터 과학 및 프로그래밍** 과정",
+              "info": "매사추세츠 공과대학교 (MIT)",
+              "text": "파이썬을 사용한 컴퓨터 과학 및 프로그래밍 과정을 완료했습니다. 파이썬 프로그래밍의 기초와 그 응용을 다루었습니다.",
+              "tags": null
+            }
+          }
+        },
+        {
+          "icon": {
+            "img": "images/pictures/harvard.png",
+            "fa": "",
+            "faColors": {
+              "bg": null,
+              "fill": null
+            }
+          },
+          "dates": {
+            "start": "01/01/2021",
+            "end": "12/31/2021"
+          },
+          "locales": {
+            "en": {
+              "title": "Course in **Python for Research**",
+              "info": "Harvard University",
+              "text": "Completed a course on Python for Research. Focused on using Python to perform research tasks in various fields.",
+              "tags": []
+            },
+            "es": {
+              "title": "Curso de **Python para la Investigación**",
+              "info": "Universidad de Harvard",
+              "text": "Completé un curso de Python para la Investigación. Con enfoque en el uso de Python para realizar tareas de investigación en diversos campos.",
+              "tags": null
+            },
+            "fr": {
+              "title": "Cours de **Python pour la Recherche**",
+              "info": "Université de Harvard",
+              "text": "J'ai complété un cours sur Python pour la Recherche. Axé sur l'utilisation de Python pour réaliser des tâches de recherche dans divers domaines.",
+              "tags": null
+            },
+            "ko": {
+              "title": "**연구를 위한 파이썬** 과정",
+              "info": "하버드 대학교",
+              "text": "다양한 분야에서 연구 작업을 수행하는 데 파이썬을 사용하는 과정이 완료되었습니다.",
+              "tags": null
+            }
+          }
+        },
+        {
+          "icon": {
+            "img": "images/pictures/harvard.png",
+            "fa": "",
+            "faColors": {
+              "bg": null,
+              "fill": null
+            }
+          },
+          "dates": {
+            "start": "01/01/2022",
+            "end": "12/31/2022"
+          },
+          "locales": {
+            "en": {
+              "title": "Course in **Web Programming with Python and JavaScript**",
+              "info": "Harvard University",
+              "text": "Completed a course in Web Programming with Python and JavaScript. Focused on building websites and web applications using both languages.",
+              "tags": []
+            },
+            "es": {
+              "title": "Curso de **Programación Web con Python y JavaScript**",
+              "info": "Universidad de Harvard",
+              "text": "Completé un curso de Programación Web con Python y JavaScript. Enfocado en la creación de sitios web y aplicaciones web utilizando ambos lenguajes.",
+              "tags": null
+            },
+            "fr": {
+              "title": "Cours de **Programmation Web avec Python et JavaScript**",
+              "info": "Université de Harvard",
+              "text": "J'ai complété un cours de Programmation Web avec Python et JavaScript. Axé sur la création de sites web et d'applications web en utilisant ces deux langages.",
+              "tags": null
+            },
+            "ko": {
+              "title": "**파이썬과 자바스크립트를 활용한 웹 프로그래밍** 과정",
+              "info": "하버드 대학교",
+              "text": "파이썬과 자바스크립트를 사용한 웹 프로그래밍 과정을 완료했습니다. 두 언어를 사용하여 웹사이트와 웹 애플리케이션을 구축하는 데 중점을 두었습니다.",
+              "tags": null
+            }
+          }
+        },
+        {
+          "icon": {
+            "img": "images/pictures/harvard.png",
+            "fa": "",
+            "faColors": {
+              "bg": null,
+              "fill": null
+            }
+          },
+          "dates": {
+            "start": "01/01/2022",
+            "end": "12/31/2022"
+          },
+          "locales": {
+            "en": {
+              "title": "Course in **Machine Learning**",
+              "info": "Harvard University",
+              "text": "Completed a course in Machine Learning. Learned about algorithms, models, and their applications in various fields.",
+              "tags": []
+            },
+            "es": {
+              "title": "Curso de **Aprendizaje Automático**",
+              "info": "Universidad de Harvard",
+              "text": "Completé un curso de Aprendizaje Automático. Aprendí sobre algoritmos, modelos y sus aplicaciones en diversos campos.",
+              "tags": null
+            },
+            "fr": {
+              "title": "Cours de **Apprentissage Automatique**",
+              "info": "Université de Harvard",
+              "text": "J'ai complété un cours sur l'Apprentissage Automatique. Appris des algorithmes, des modèles et leurs applications dans divers domaines.",
+              "tags": null
+            },
+            "ko": {
+              "title": "**기계 학습** 과정",
+              "info": "하버드 대학교",
+              "text": "기계 학습 과정이 완료되었습니다. 알고리즘, 모델 및 다양한 분야에서의 응용에 대해 배웠습니다.",
+              "tags": null
+            }
+          }
+        },
+        {
+          "icon": {
+            "img": "images/pictures/camara.png",
+            "fa": "",
+            "faColors": {
+              "bg": null,
+              "fill": null
+            }
+          },
+          "dates": {
+            "start": "01/15/2024",
+            "end": "09/22/2024"
+          },
+          "locales": {
+            "en": {
+              "title": "Program in **Applied Artificial Intelligence**",
+              "info": "AI Academy",
+              "text": "Successfully completed a program in Applied Artificial Intelligence, consisting of 8 modules: Introduction to AI, Technical Foundations, AI Fields, AI for Tool and Solution Development, AI Ethics and Legislation, AI Solutions for Businesses, AI-Based Business Creation, and AI Applications.",
+              "tags": []
+            },
+            "es": {
+              "title": "Programa de **Inteligencia Artificial Aplicada**",
+              "info": "Academia de IA",
+              "text": "Culminé satisfactoriamente el programa de Inteligencia Artificial Aplicada, compuesto por 8 módulos: Introducción a la IA, Bases Técnicas, Campos de la IA, IA para Creación de Herramientas y Soluciones, Legislación y Ética en IA, Diseño de Soluciones para Empresas, Creación de Negocios Basados en IA y Aplicaciones de IA.",
+              "tags": null
+            },
+            "fr": {
+              "title": "Programme de **Intelligence Artificielle Appliquée**",
+              "info": "Académie d'IA",
+              "text": "J'ai terminé avec succès un programme en Intelligence Artificielle Appliquée, composé de 8 modules: Introduction à l'IA, Fondements Techniques, Domaines de l'IA, IA pour le Développement d'Outils et de Solutions, Législation et Éthique de l'IA, Conception de Solutions IA pour Entreprises, Création d'Entreprises Basées sur l'IA et Applications de l'IA.",
+              "tags": null
+            },
+            "ko": {
+              "title": "**응용 인공지능** 프로그램",
+              "info": "AI 아카데미",
+              "text": "응용 인공지능 프로그램을 성공적으로 완료하였습니다. 8개의 모듈로 구성되어 있습니다: 인공지능 개요, 기술적 기초, 인공지능 분야, 도구 및 솔루션 개발을 위한 인공지능, 인공지능 윤리 및 법률, 기업을 위한 인공지능 솔루션 설계, 인공지능 기반 비즈니스 창출, 인공지능 응용.",
+              "tags": null
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

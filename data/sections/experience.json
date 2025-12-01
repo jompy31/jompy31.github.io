@@ -1,0 +1,519 @@
+{
+    "locales": {
+        "en": {
+            "title": "Experience",
+            "title_long_prefix": "Summary of my",
+            "title_long": "**Work** Experience"
+        },
+        "es": {
+            "title": "Experiencia",
+            "title_long_prefix": "Resumen de mi",
+            "title_long": "Experiencia **Laboral**"
+        },
+        "fr": {
+            "title": "Expérience",
+            "title_long_prefix": "Résumé de mon",
+            "title_long": "Parcours **Professionel**"
+        },
+        "ko": {
+            "title": "경험",
+            "title_long_prefix": "이것은 내",
+            "title_long": "**직업적** 경험"
+        }
+    },
+    "articles": [
+        {
+            "id": "work",
+            "component": "ArticleTimeline",
+            "config": {},
+            "locales": {},
+            "items": [
+                {
+                    "icon": {
+                        "img": "images/pictures/ust.png",
+                        "fa": "",
+                        "faColors": {
+                            "bg": null,
+                            "fill": null
+                        }
+                    },
+                    "dates": {
+                        "start": "08/01/2020",
+                        "end": "12/31/2021"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Senior Validation Platform Engineer",
+                            "info": "UST Global (Intel)",
+                            "text": "Migrated over 400+ test cases to HSD-ES, significantly improving validation efficiency and streamlining the testing process.\n\nCollaborated with cross-functional teams to triage and root cause hardware and software issues, ensuring product reliability.\n\nPrepared systems for testing by assembling hardware components, flashing firmware, installing operating systems, and configuring debugging tools.\n\nWorked closely with customers and stakeholders to ensure deliverables met specifications and validation timelines.\n\nPublished daily and weekly status reports to track project progress and testing effectiveness.\n\nDocumented defect reports for detected issues, providing detailed debugging insights and resolutions.\n\nUtilized advanced debug tools like WinDbg for troubleshooting system failures, improving response times in critical bug fixes.",
+                            "tags": [
+                                "Validation",
+                                "Hardware Debugging",
+                                "Software Debugging",
+                                "WinDbg",
+                                "Testing",
+                                "Firmware",
+                                "OS Installation",
+                                "Root Cause Analysis",
+                                "Defect Reports",
+                                "Project Management",
+                                "Automation",
+                                "Troubleshooting",
+                                "HSD-ES"
+                            ]
+                        },
+                        "es": {
+                            "title": "Ingeniero Senior de Validación de Plataformas",
+                            "info": "UST Global (Intel)",
+                            "text": "Migré más de 400 casos de prueba a HSD-ES, mejorando significativamente la eficiencia de validación y optimizando el proceso de pruebas.\n\nColaboré con equipos multidisciplinarios para analizar y diagnosticar problemas de hardware y software, asegurando la confiabilidad del producto.\n\nPreparé sistemas para pruebas ensamblando hardware, actualizando firmware, instalando sistemas operativos y configurando herramientas de depuración.\n\nTrabajé estrechamente con clientes y partes interesadas para garantizar que los entregables cumplieran con las especificaciones y los plazos de validación.\n\nElaboré informes diarios y semanales para rastrear el progreso del proyecto y la efectividad de las pruebas.\n\nRedacté informes de defectos para documentar problemas detectados, proporcionando análisis detallados y soluciones.\n\nUtilicé herramientas avanzadas de depuración como WinDbg para solucionar fallas del sistema, reduciendo tiempos de respuesta en corrección de errores críticos.",
+                            "tags": [
+                                "Validación",
+                                "Depuración de Hardware",
+                                "Depuración de Software",
+                                "WinDbg",
+                                "Pruebas",
+                                "Firmware",
+                                "Instalación de OS",
+                                "Análisis de Causa Raíz",
+                                "Informes de Defectos",
+                                "Gestión de Proyectos",
+                                "Automatización",
+                                "Solución de Problemas",
+                                "HSD-ES"
+                            ]
+                        },
+                        "fr": {
+                            "title": "Ingénieur Senior en Validation de Plateforme",
+                            "info": "UST Global (Intel)",
+                            "text": "Migré plus de 400 cas de test vers HSD-ES, améliorant considérablement l'efficacité des validations et optimisant le processus de test.\n\nCollaboré avec des équipes multidisciplinaires pour analyser et diagnostiquer les problèmes matériels et logiciels, garantissant la fiabilité du produit.\n\nPréparé les systèmes pour les tests en assemblant des composants matériels, en mettant à jour le firmware, en installant des systèmes d'exploitation et en configurant des outils de débogage.\n\nTravaillé en étroite collaboration avec les clients et les parties prenantes pour s'assurer que les livrables respectaient les spécifications et les délais de validation.\n\nPublié des rapports d'état quotidiens et hebdomadaires pour suivre la progression du projet et l'efficacité des tests.\n\nRédigé des rapports de défauts pour documenter les problèmes détectés, en fournissant des analyses détaillées et des solutions.\n\nUtilisé des outils avancés de débogage comme WinDbg pour résoudre les pannes système, réduisant les temps de réponse dans la correction des bugs critiques.",
+                            "tags": [
+                                "Validation",
+                                "Débogage Matériel",
+                                "Débogage Logiciel",
+                                "WinDbg",
+                                "Tests",
+                                "Firmware",
+                                "Installation OS",
+                                "Analyse de la Cause Racine",
+                                "Rapports de Défauts",
+                                "Gestion de Projet",
+                                "Automatisation",
+                                "Résolution de Problèmes",
+                                "HSD-ES"
+                            ]
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": "images/pictures/intel.jpeg",
+                        "fa": "",
+                        "faColors": {
+                            "bg": null,
+                            "fill": null
+                        }
+                    },
+                    "dates": {
+                        "start": "01/01/2022",
+                        "end": "01/31/2023"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Electronics Yield Engineer",
+                            "info": "Intel Corporation",
+                            "text": "Analyzed factory yield losses and conducted root cause investigations to improve semiconductor manufacturing efficiency.\n\nLed a team of 62 professionals, including 52 operations engineers and machine operators, optimizing production workflows and troubleshooting high-impact issues.\n\nDeveloped machine learning algorithms using Python, Keras, TensorFlow, and scikit-learn to analyze alarms and detect anomalies in semiconductor processes.\n\nCreated a Power BI dashboard to visualize yield trends and factory performance, integrating SQL-based data extraction for real-time reporting.\n\nAutomated human operations by deploying Python-based scripts with Selenium for web automation and Kubernetes for scalable deployment.\n\nConducted comprehensive hardware and software testing, designing test cases and test plans to ensure optimal system performance and reliability.",
+                            "tags": [
+                                "Python",
+                                "TensorFlow",
+                                "Keras",
+                                "scikit-learn",
+                                "Machine Learning",
+                                "Data Analysis",
+                                "Power BI",
+                                "SQL",
+                                "Automation",
+                                "Selenium",
+                                "Kubernetes",
+                                "Semiconductor Industry",
+                                "Yield Engineering",
+                                "Hardware Testing",
+                                "Software Testing",
+                                "Team Leadership"
+                            ]
+                        },
+                        "es": {
+                            "title": "Ingeniero de Rendimiento Electrónico",
+                            "info": "Intel Corporation",
+                            "text": "Analicé las pérdidas de rendimiento en fábrica e investigué las causas raíz para mejorar la eficiencia en la manufactura de semiconductores.\n\nLideré un equipo de 62 personas, incluyendo 52 ingenieros de operaciones y operadores, optimizando flujos de producción y resolviendo problemas críticos.\n\nDesarrollé algoritmos de machine learning con Python, Keras, TensorFlow y scikit-learn para el análisis de alarmas y detección de anomalías en procesos de semiconductores.\n\nCreé un dashboard en Power BI para visualizar tendencias de rendimiento y desempeño de fábrica, integrando extracción de datos en SQL para reportes en tiempo real.\n\nAutomaticé operaciones humanas implementando scripts en Python con Selenium para automatización web y Kubernetes para despliegue escalable.\n\nRealicé pruebas de hardware y software, diseñando casos de prueba y planes de prueba para garantizar el rendimiento óptimo de los sistemas.",
+                            "tags": [
+                                "Python",
+                                "TensorFlow",
+                                "Keras",
+                                "scikit-learn",
+                                "Machine Learning",
+                                "Análisis de Datos",
+                                "Power BI",
+                                "SQL",
+                                "Automatización",
+                                "Selenium",
+                                "Kubernetes",
+                                "Industria de Semiconductores",
+                                "Ingeniería de Rendimiento",
+                                "Pruebas de Hardware",
+                                "Pruebas de Software",
+                                "Liderazgo de Equipos"
+                            ]
+                        },
+                        "fr": {
+                            "title": "Ingénieur en Rendement Électronique",
+                            "info": "Intel Corporation",
+                            "text": "Analysé les pertes de rendement en usine et mené des enquêtes pour identifier les causes profondes et améliorer l'efficacité de la fabrication des semi-conducteurs.\n\nDirigé une équipe de 62 personnes, dont 52 ingénieurs d'opérations et opérateurs, en optimisant les flux de production et en résolvant des problèmes critiques.\n\nDéveloppé des algorithmes de machine learning avec Python, Keras, TensorFlow et scikit-learn pour analyser les alarmes et détecter les anomalies dans les processus industriels.\n\nCréé un tableau de bord interactif sous Power BI pour visualiser les tendances de rendement et la performance des usines, en utilisant SQL pour l'extraction de données en temps réel.\n\nAutomatisé les opérations humaines en utilisant des scripts Python avec Selenium pour l'automatisation web et Kubernetes pour un déploiement évolutif.\n\nEffectué des tests matériels et logiciels, en concevant des cas de test et des plans de test pour garantir des performances optimales des systèmes.",
+                            "tags": [
+                                "Python",
+                                "TensorFlow",
+                                "Keras",
+                                "scikit-learn",
+                                "Machine Learning",
+                                "Analyse de Données",
+                                "Power BI",
+                                "SQL",
+                                "Automatisation",
+                                "Selenium",
+                                "Kubernetes",
+                                "Industrie des Semi-conducteurs",
+                                "Ingénierie du Rendement",
+                                "Tests Matériels",
+                                "Tests Logiciels",
+                                "Leadership d'Équipe"
+                            ]
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": "images/pictures/upwork.png",
+                        "fa": "",
+                        "faColors": {
+                            "bg": null,
+                            "fill": null
+                        }
+                    },
+                    "dates": {
+                        "start": "01/01/2023",
+                        "end": "12/31/2023"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Web Developer Freelancer",
+                            "info": "Self-Employed",
+                            "text": "Developed and deployed web applications using Python, Django, and React.js, optimizing performance and security through RESTful API integration and authentication (JWT/OAuth2).\n\nDesigned interactive dashboards using SQL and MongoDB databases, leveraging Power BI and SharePoint for real-time data visualization and reporting.\n\nDeveloped AI-driven Python software with computer vision (OpenCV, TensorFlow) to automate repetitive tasks and improve operational efficiency.\n\nManaged multiple client projects using SCRUM methodology, ensuring timely delivery and continuous iteration.\n\nCreated business applications based on client needs, including:\n- **IFRS17 Actuarial Accounting System**: Developed a web application based on NIF17 with advanced online mathematical calculations and statistical models for financial analysis.\n- **Business Management Applications**: Built applications with user types, calendars, and sales tracking features.\n- **Industrial OEE and Equipment Monitoring**: Developed real-time statistical and mathematical calculation systems to analyze production efficiency (OEE), equipment stoppages, and automated decision-making with custom alerts.\n- **SEO-Optimized Static Websites**: Designed static applications with marketing and SEO best practices to maximize online visibility.",
+                            "tags": [
+                                "Python",
+                                "Django",
+                                "React.js",
+                                "SQL",
+                                "MongoDB",
+                                "Power BI",
+                                "SharePoint",
+                                "AI",
+                                "OpenCV",
+                                "TensorFlow",
+                                "SCRUM",
+                                "REST API",
+                                "JWT",
+                                "OAuth2",
+                                "Web Development",
+                                "SEO",
+                                "Data Analysis",
+                                "Business Automation"
+                            ]
+                        },
+                        "es": {
+                            "title": "Desarrollador Web Freelancer",
+                            "info": "Autónomo",
+                            "text": "Desarrollé y desplegué aplicaciones web utilizando Python, Django y React.js, optimizando el rendimiento y la seguridad mediante integración de API RESTful y autenticación (JWT/OAuth2).\n\nDiseñé dashboards interactivos con bases de datos SQL y MongoDB, utilizando Power BI y SharePoint para visualización y reportes en tiempo real.\n\nImplementé software en Python con inteligencia artificial y visión por computadora (OpenCV, TensorFlow) para automatizar tareas repetitivas y mejorar la eficiencia operativa.\n\nGestioné múltiples proyectos con la metodología SCRUM, asegurando entregas a tiempo y mejoras continuas.\n\nDesarrollé aplicaciones empresariales según las necesidades del cliente, incluyendo:\n- **Sistema Actuarial Contable IFRS17**: Aplicación web basada en NIF17 con cálculos matemáticos avanzados y modelos estadísticos en línea para análisis financiero.\n- **Aplicaciones de Gestión Empresarial**: Desarrollo de apps con gestión de usuarios, calendarios y seguimiento de ventas.\n- **Monitoreo Industrial de OEE y Equipos**: Creación de sistemas en tiempo real para el cálculo estadístico y matemático de eficiencia operativa (OEE), paradas de equipos y toma de decisiones automatizada con alertas personalizadas.\n- **Páginas Web Estáticas con SEO**: Aplicaciones optimizadas para marketing digital y posicionamiento SEO.",
+                            "tags": [
+                                "Python",
+                                "Django",
+                                "React.js",
+                                "SQL",
+                                "MongoDB",
+                                "Power BI",
+                                "SharePoint",
+                                "IA",
+                                "OpenCV",
+                                "TensorFlow",
+                                "SCRUM",
+                                "REST API",
+                                "JWT",
+                                "OAuth2",
+                                "Desarrollo Web",
+                                "SEO",
+                                "Análisis de Datos",
+                                "Automatización Empresarial"
+                            ]
+                        },
+                        "fr": {
+                            "title": "Développeur Web Indépendant",
+                            "info": "Auto-entrepreneur",
+                            "text": "Développement et déploiement d'applications web en utilisant Python, Django et React.js, avec optimisation des performances et sécurité via l'intégration des API RESTful et l'authentification (JWT/OAuth2).\n\nConception de tableaux de bord interactifs avec bases de données SQL et MongoDB, utilisant Power BI et SharePoint pour la visualisation et l'analyse des données en temps réel.\n\nDéveloppement de logiciels Python basés sur l'IA et la vision par ordinateur (OpenCV, TensorFlow) pour automatiser les tâches répétitives et améliorer l'efficacité opérationnelle.\n\nGestion de plusieurs projets clients en utilisant la méthodologie SCRUM, assurant des livraisons ponctuelles et une amélioration continue.\n\nCréation d'applications métiers adaptées aux besoins des clients, notamment :\n- **Système Actuariel Comptable IFRS17** : Application web basée sur NIF17 avec calculs mathématiques avancés et modèles statistiques pour l'analyse financière.\n- **Applications de Gestion d'Entreprise** : Développement d'outils avec gestion des utilisateurs, calendriers et suivi des ventes.\n- **Surveillance Industrielle OEE et Maintenance** : Systèmes en temps réel pour l'analyse statistique et mathématique de l'efficacité opérationnelle (OEE), arrêts d'équipements et prise de décisions automatisée avec alertes personnalisées.\n- **Sites Web Statiques Optimisés SEO** : Applications conçues selon les meilleures pratiques en SEO et marketing digital.",
+                            "tags": [
+                                "Python",
+                                "Django",
+                                "React.js",
+                                "SQL",
+                                "MongoDB",
+                                "Power BI",
+                                "SharePoint",
+                                "IA",
+                                "OpenCV",
+                                "TensorFlow",
+                                "SCRUM",
+                                "REST API",
+                                "JWT",
+                                "OAuth2",
+                                "Développement Web",
+                                "SEO",
+                                "Analyse de Données",
+                                "Automatisation"
+                            ]
+                        },
+                        "ko": {
+                            "title": "웹 개발자 프리랜서",
+                            "info": "개인사업",
+                            "text": "Python, Django 및 React.js를 사용하여 웹 애플리케이션을 개발하고, RESTful API 통합 및 인증(JWT/OAuth2)을 통해 성능과 보안을 최적화함.\n\nSQL 및 MongoDB 데이터베이스를 활용하여 대시보드를 설계하고, Power BI 및 SharePoint를 사용하여 실시간 데이터 시각화 및 보고서를 생성.\n\nOpenCV 및 TensorFlow 기반 AI와 컴퓨터 비전을 적용하여 반복적인 작업을 자동화하고 운영 효율성을 향상시킴.\n\nSCRUM 방법론을 활용하여 여러 고객 프로젝트를 관리하며, 신속한 제품 개발과 지속적인 개선을 보장함.\n\n고객 요구에 맞춰 다양한 비즈니스 애플리케이션을 개발:\n- **IFRS17 회계 시스템**: NIF17을 기반으로 수학적 계산 및 통계 기능이 포함된 웹 애플리케이션으로, 재무 분석을 용이하게 함.\n- **비즈니스 관리 애플리케이션**: 사용자 유형, 캘린더 및 판매 기능을 포함한 다양한 기업용 앱 개발.\n- **OEE 및 장비 모니터링 시스템**: 실시간으로 운영 효율성(OEE) 분석, 장비 중지 감지, 수학적 알고리즘을 사용한 자동 의사 결정 및 경고 시스템 개발.\n- **SEO 최적화 정적 웹사이트**: 검색 엔진 최적화(SEO) 및 마케팅을 적용한 정적 웹 애플리케이션 제작.",
+                            "tags": [
+                                "Python",
+                                "Django",
+                                "React.js",
+                                "SQL",
+                                "MongoDB",
+                                "Power BI",
+                                "SharePoint",
+                                "AI",
+                                "OpenCV",
+                                "TensorFlow",
+                                "SCRUM",
+                                "REST API",
+                                "JWT",
+                                "OAuth2",
+                                "웹 개발",
+                                "SEO",
+                                "데이터 분석",
+                                "자동화"
+                            ]
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": "images/pictures/abcupon.jpeg",
+                        "fa": "",
+                        "faColors": {
+                            "bg": null,
+                            "fill": null
+                        }
+                    },
+                    "dates": {
+                        "start": "12/01/2023",
+                        "end": "02/15/2025"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Innovation Developer",
+                            "info": "ABCupon.com",
+                            "text": "Designed and implemented automation processes to optimize company operations using Python, Tkinter, Pandas, OpenCV, and NumPy, significantly reducing manual workload.\n\nDeveloped a secure, scalable web application hosted on AWS (EC2, RDS, Route 53, Certificate Manager, CloudWatch) with a frontend in React.js (Redux, Axios, Math.js, Brain.js, LocalStorage). The system integrated advanced functionalities, including:\n- Visual UI/UX for seamless user experience.\n- E-commerce capabilities with product listings, payment gateway integration, and cart management.\n- AI-powered chatbot for automated customer support.\n- Directory search with dynamic filtering and geolocation.\n- Multi-role user management to streamline administrative tasks.\n\nAdditionally, leveraged web scraping techniques to extract structured data from directories across Venezuela to Mexico, providing valuable insights for data-driven decision-making in advertising campaigns. Managed and optimized Meta Business, TikTok Business, and Google Ads campaigns using data analytics to enhance engagement and conversion rates.",
+                            "tags": [
+                                "Python",
+                                "Tkinter",
+                                "Pandas",
+                                "OpenCV",
+                                "NumPy",
+                                "AWS",
+                                "EC2",
+                                "RDS",
+                                "Route 53",
+                                "CloudWatch",
+                                "React.js",
+                                "Redux",
+                                "Axios",
+                                "Math.js",
+                                "Brain.js",
+                                "LocalStorage",
+                                "Web Scraping",
+                                "AI Chatbot",
+                                "E-commerce",
+                                "Google Ads",
+                                "TikTok Business",
+                                "Meta Business"
+                            ]
+                        },
+                        "es": {
+                            "title": "Desarrollador de Innovación",
+                            "info": "ABCupon.com",
+                            "text": "Diseñé e implementé procesos de automatización para optimizar operaciones de la empresa utilizando Python, Tkinter, Pandas, OpenCV y NumPy, reduciendo significativamente la carga manual.\n\nDesarrollé una aplicación web segura y escalable alojada en AWS (EC2, RDS, Route 53, Certificate Manager, CloudWatch) con un frontend en React.js (Redux, Axios, Math.js, Brain.js, LocalStorage). El sistema integró funcionalidades avanzadas, incluyendo:\n- UI/UX visual para una experiencia fluida.\n- Capacidades de e-commerce con listados de productos, pasarela de pagos y gestión de carrito.\n- Chatbot con IA para atención automatizada.\n- Búsqueda en directorios con filtros dinámicos y geolocalización.\n- Gestión de usuarios con múltiples roles para optimizar tareas administrativas.\n\nAdicionalmente, utilicé técnicas de web scraping para extraer datos estructurados de directorios desde Venezuela hasta México, proporcionando insights valiosos para la toma de decisiones basada en datos en campañas publicitarias. Gestioné y optimicé campañas en Meta Business, TikTok Business y Google Ads mediante análisis de datos para mejorar la interacción y tasas de conversión.",
+                            "tags": [
+                                "Python",
+                                "Tkinter",
+                                "Pandas",
+                                "OpenCV",
+                                "NumPy",
+                                "AWS",
+                                "EC2",
+                                "RDS",
+                                "Route 53",
+                                "CloudWatch",
+                                "React.js",
+                                "Redux",
+                                "Axios",
+                                "Math.js",
+                                "Brain.js",
+                                "LocalStorage",
+                                "Web Scraping",
+                                "IA Chatbot",
+                                "E-commerce",
+                                "Google Ads",
+                                "TikTok Business",
+                                "Meta Business"
+                            ]
+                        },
+                        "fr": {
+                            "title": "Développeur en Innovation",
+                            "info": "ABCupon.com",
+                            "text": "Conçu et mis en œuvre des processus d'automatisation pour optimiser les opérations de l'entreprise en utilisant Python, Tkinter, Pandas, OpenCV et NumPy, réduisant considérablement la charge de travail manuelle.\n\nDéveloppé une application web sécurisée et évolutive hébergée sur AWS (EC2, RDS, Route 53, Certificate Manager, CloudWatch) avec un frontend en React.js (Redux, Axios, Math.js, Brain.js, LocalStorage). Le système intègre des fonctionnalités avancées, notamment :\n- Interface utilisateur intuitive pour une expérience fluide.\n- Capacités e-commerce avec gestion de produits, passerelle de paiement et panier d'achat.\n- Chatbot IA pour l'assistance automatisée.\n- Recherche dans l'annuaire avec filtres dynamiques et géolocalisation.\n- Gestion multi-rôles des utilisateurs pour optimiser les tâches administratives.\n\nPar ailleurs, utilisé des techniques de web scraping pour extraire des données structurées des annuaires du Venezuela au Mexique, fournissant des analyses précieuses pour l'optimisation des campagnes publicitaires. Géré et optimisé les campagnes Meta Business, TikTok Business et Google Ads grâce à l'analyse de données pour améliorer l'engagement et les taux de conversion.",
+                            "tags": [
+                                "Python",
+                                "Tkinter",
+                                "Pandas",
+                                "OpenCV",
+                                "NumPy",
+                                "AWS",
+                                "EC2",
+                                "RDS",
+                                "Route 53",
+                                "CloudWatch",
+                                "React.js",
+                                "Redux",
+                                "Axios",
+                                "Math.js",
+                                "Brain.js",
+                                "LocalStorage",
+                                "Web Scraping",
+                                "IA Chatbot",
+                                "E-commerce",
+                                "Google Ads",
+                                "TikTok Business",
+                                "Meta Business"
+                            ]
+                        },
+                        "ko": {
+                            "title": "혁신 개발자",
+                            "info": "ABCupon.com",
+                            "text": "Python, Tkinter, Pandas, OpenCV 및 NumPy를 활용하여 회사 운영을 최적화하는 자동화 프로세스를 설계하고 구현하여 수작업 부담을 크게 줄였습니다.\n\nAWS (EC2, RDS, Route 53, Certificate Manager, CloudWatch)에 호스팅된 보안 및 확장 가능한 웹 애플리케이션을 개발하였으며, React.js (Redux, Axios, Math.js, Brain.js, LocalStorage) 기반 프런트엔드를 구축했습니다. 시스템은 다음과 같은 고급 기능을 통합했습니다:\n- 원활한 사용자 경험을 위한 UI/UX 디자인.\n- 전자상거래 기능(제품 목록, 결제 게이트웨이, 장바구니 관리 포함).\n- 인공지능 챗봇을 통한 자동 고객 지원.\n- 동적 필터링 및 위치 기반 검색을 제공하는 디렉토리 검색 기능.\n- 관리자 업무를 간소화하는 다중 사용자 역할 관리 시스템.\n\n또한, 웹 스크래핑 기술을 활용하여 베네수엘라에서 멕시코까지의 디렉토리 데이터를 구조화하여 수집하고 이를 기반으로 데이터 중심의 광고 캠페인 최적화를 수행했습니다. Google Ads, TikTok Business 및 Meta Business의 광고 캠페인을 관리하고 최적화하여 참여율 및 전환율을 향상시켰습니다.",
+                            "tags": [
+                                "Python",
+                                "Tkinter",
+                                "Pandas",
+                                "OpenCV",
+                                "NumPy",
+                                "AWS",
+                                "EC2",
+                                "RDS",
+                                "Route 53",
+                                "CloudWatch",
+                                "React.js",
+                                "Redux",
+                                "Axios",
+                                "Math.js",
+                                "Brain.js",
+                                "LocalStorage",
+                                "Web Scraping",
+                                "AI 챗봇",
+                                "전자상거래",
+                                "Google Ads",
+                                "TikTok Business",
+                                "Meta Business"
+                            ]
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": "images/pictures/academy.jpeg",
+                        "fa": "",
+                        "faColors": {
+                            "bg": "#111",
+                            "fill": "#EEE"
+                        }
+                    },
+                    "dates": {
+                        "start": "06/01/2024",
+                        "end": "now"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Programming Teacher",
+                            "info": "Academy Coder",
+                            "text": "Taught HTML, JavaScript, React.js, Python, and Django. Implemented pedagogical techniques such as Project-Based Learning (PBL), Flipped Classroom, Collaborative Learning, Socratic Method, Active Learning, Project Management Tools, and Mentoring Sessions for students.",
+                            "tags": [
+                                "HTML",
+                                "JavaScript",
+                                "React.js",
+                                "Python",
+                                "Django",
+                                "PBL",
+                                "Flipped Classroom",
+                                "Mentoring"
+                            ]
+                        },
+                        "es": {
+                            "title": "Profesor de Programación",
+                            "info": "Academy Coder",
+                            "text": "Enseñé HTML, JavaScript, React.js, Python y Django. Implementé técnicas pedagógicas como Aprendizaje Basado en Proyectos (PBL), Aula Invertida, Aprendizaje Colaborativo, Método Socrático, Aprendizaje Activo, Herramientas de Gestión de Proyectos y Sesiones de Mentoría para los estudiantes.",
+                            "tags": [
+                                "HTML",
+                                "JavaScript",
+                                "React.js",
+                                "Python",
+                                "Django",
+                                "PBL",
+                                "Aula Invertida",
+                                "Mentoría"
+                            ]
+                        },
+                        "fr": {
+                            "title": "Professeur de Programmation",
+                            "info": "Academy Coder",
+                            "text": "Enseigné HTML, JavaScript, React.js, Python et Django. Mis en œuvre des techniques pédagogiques telles que l'Apprentissage Basé sur les Projets (PBL), la Classe Inversée, l'Apprentissage Collaboratif, la Méthode Socratique, l'Apprentissage Actif, les Outils de Gestion de Projet et les Séances de Mentorat pour les étudiants.",
+                            "tags": [
+                                "HTML",
+                                "JavaScript",
+                                "React.js",
+                                "Python",
+                                "Django",
+                                "PBL",
+                                "Classe Inversée",
+                                "Mentorat"
+                            ]
+                        },
+                        "ko": {
+                            "title": "프로그래밍 강사",
+                            "info": "Academy Coder",
+                            "text": "HTML, JavaScript, React.js, Python, Django를 가르쳤습니다. 프로젝트 기반 학습 (PBL), 플립 러닝, 협력 학습, 소크라테스 방식, 능동 학습, 프로젝트 관리 도구 및 멘토링 세션과 같은 교육 기법을 도입했습니다.",
+                            "tags": [
+                                "HTML",
+                                "JavaScript",
+                                "React.js",
+                                "Python",
+                                "Django",
+                                "PBL",
+                                "플립 러닝",
+                                "멘토링"
+                            ]
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}
